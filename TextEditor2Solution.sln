@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextEditor2", "TextEditor2\TextEditor2.csproj", "{BF349385-80E7-4A73-AD54-6C4691406AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentsLibrary", "ComponentsLibrary\ComponentsLibrary.csproj", "{566E11CD-C329-4152-B2A4-94168DF13CB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF349385-80E7-4A73-AD54-6C4691406AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF349385-80E7-4A73-AD54-6C4691406AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF349385-80E7-4A73-AD54-6C4691406AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF349385-80E7-4A73-AD54-6C4691406AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566E11CD-C329-4152-B2A4-94168DF13CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566E11CD-C329-4152-B2A4-94168DF13CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566E11CD-C329-4152-B2A4-94168DF13CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566E11CD-C329-4152-B2A4-94168DF13CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EAB4C38-482D-42B3-8FF3-F70C91A898FC}
+	EndGlobalSection
+EndGlobal
